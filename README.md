@@ -6,3 +6,4 @@ Iniciar Projeto:
 - cd <projeto>
 - composer install
 - composer dumpautoload -o
+- php index.php (no terminal) ou php -S localhost:8000 (na web)
